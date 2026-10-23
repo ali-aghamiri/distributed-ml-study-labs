@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+*.npy
+*.npz
+*.csv
+*.pt
+*.pth
+*.zip
+*.mp4
+*.docx
+*.pdf
+results/
+data/
